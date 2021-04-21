@@ -1,24 +1,6 @@
-# file-upload-example
+# Vue.js로 파일 업로드하기
 
-## Project setup
-```
-npm install
-```
+## 참고
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://codepen.io/Atinux/pen/qOvawK/  
+https://bootstrap-vue.org/docs/components/form
